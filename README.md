@@ -54,7 +54,7 @@
   <a href="https://www.youtube.com/@yourchannel" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="30" width="30" /></a>
 </p>
 
-
+🐍 GitHub Contribution Snake
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
