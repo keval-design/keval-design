@@ -18,7 +18,7 @@
 - 🚀 Currently exploring **Generative AI** for intelligent test automation
 - 📚 Currently learning: **Advanced Selenium and Java-based Frameworks**
 - 🔗 All my projects are available [here](https://github.com/keval-design)
-- 📧 Reach me at: **your.email@example.com**
+- 📧 Reach me at: **rathodkeval70901@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/141tM8q4D0zohz5SpZJhDhPU34PeeB0DK/view?usp=sharing)
 
 ---
