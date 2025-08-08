@@ -4,6 +4,8 @@
 
 
 
+<h1 align="center">Keval Rathod</h1>
+
 <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3>
 
 <p align="center">
