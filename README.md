@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hey 👋 I'm Keval Rathod</h1>
+<img src="./animated-name-typing.svg" alt="Keval Rathod">
+
 
 <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3>
 
