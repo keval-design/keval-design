@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="./animated-name-typing.svg" alt="Keval Rathod">
+![Keval Rathod](https://img.shields.io/badge/Keval%20Rathod-%230b7285?style=for-the-badge&logoColor=white)
+
 
 
 <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3>
