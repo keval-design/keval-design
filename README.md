@@ -1,4 +1,5 @@
-## Hi there 👋 ![Keval Rathod]
+## Hi there 👋 
+![Keval Rathod](https://img.shields.io/badge/Keval%20Rathod-%230b7285?style=for-the-badge&logoColor=white)
 
 <h1 align="center">Hey 👋 I'm Keval Rathod</h1> <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3> <p align="center"> Passionate about building robust and efficient test automation frameworks and ensuring bug-free experiences! </p>
 
