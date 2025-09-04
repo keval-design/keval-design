@@ -37,6 +37,7 @@ Developed Cypress automation scripts to test user flows, payment gateways, and r
 3. Dummy REST API Testing
 
 Executed automated API tests using Rest Assured and Postman to validate endpoints, responses, and error handling.
+
 ---
 ### 🛠️ Languages & Tools
 <p align="left">
