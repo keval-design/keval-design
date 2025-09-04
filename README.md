@@ -20,21 +20,6 @@ Hi there 👋
 
 📄 View My Resume
 
-🚀 My Projects
-1. Casino Manual Testing
-
-
-Performed comprehensive manual testing on a casino-style demo web application, ensuring functionality, usability, and performance.
-
-2. Henry's E-Commerce Automation
-
-
-Developed Cypress automation scripts to test user flows, payment gateways, and responsive behavior of a demo e-commerce website.
-
-3. Dummy REST API Testing
-
-
-Executed automated API tests using Rest Assured and Postman to validate endpoints, responses, and error handling.
 
 🛠️ Languages & Tools
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="30" /> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" height="30" width="30" /> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/gherkin.svg" height="30" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="40" /> </p>
