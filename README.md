@@ -28,13 +28,16 @@
 🚀 My Projects
 1. Casino Manual Testing
 
+
 Performed comprehensive manual testing on a casino-style demo web application, ensuring functionality, usability, and performance.
 
 2. Henry's E-Commerce Automation
 
+
 Developed Cypress automation scripts to test user flows, payment gateways, and responsive behavior of a demo e-commerce website.
 
 3. Dummy REST API Testing
+
 
 Executed automated API tests using Rest Assured and Postman to validate endpoints, responses, and error handling.
 
