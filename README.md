@@ -1,6 +1,7 @@
 Hi there 👋
 
 <h1 align="center">Hey 👋 I'm Keval Rathod</h1> <h3 align="center">💻 QA Engineer | SDET | Automation Enthusiast</h3> <p align="center"> Passionate about building robust and efficient test automation frameworks and ensuring bug-free experiences! </p>
+
 👨‍💻 About Me
 
 🏡 From [Rajkot, India]
