@@ -21,7 +21,7 @@
 
 📧 Reach me at: rathodkeval70901@gmail.com  
 
-📄 View My Resume  
+📄 [View My Resume](https://drive.google.com/file/d/1PSyFgcYrBNEVab7_8TuMDCxCe_P74X3G/view?usp=sharing)  
 
 ---
 
