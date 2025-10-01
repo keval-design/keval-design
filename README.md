@@ -9,19 +9,19 @@
 
 ## 👨‍💻 About Me
 
-🏡 From [Rajkot, India]
+🏡 From [Rajkot, India]  
 
-💡 QA Engineer with expertise in Manual Testing, Selenium, Appium, Cypress, API Testing, and BDD
+💡 QA Engineer with expertise in Manual Testing, Selenium, Appium, Cypress, API Testing, and BDD  
 
-💬 Ask me about: Java, JavaScript, Postman, Rest Assured, Cypress, Selenium, Manual Testing
+💬 Ask me about: Java, JavaScript, Postman, Rest Assured, Cypress, Selenium, Manual Testing  
 
-🚀 Currently exploring Generative AI for intelligent test automation
+🚀 Currently exploring Generative AI for intelligent test automation  
 
-📚 Currently learning: Advanced Selenium and Java-based Frameworks
+📚 Currently learning: Advanced Selenium and Java-based Frameworks  
 
-📧 Reach me at: rathodkeval70901@gmail.com
+📧 Reach me at: rathodkeval70901@gmail.com  
 
-📄 View My Resume
+📄 View My Resume  
 
 ---
 
@@ -29,10 +29,35 @@
 
 Here are some of the projects I have worked on:
 
-- **[Qafox Testing Project](https://github.com/keval-design/Qafox_Testing_Project)** – A comprehensive QA project covering manual and automation testing for a demo website.  
-- **[Henry-sweb Cypress](https://github.com/keval-design/Henry-sweb_Cypress)** – Cypress-based automation testing project for web applications.  
+### 📌 [Qafox Testing Project](https://github.com/keval-design/Qafox_Testing_Project)  
+A **comprehensive QA project** covering both manual and automation testing of an e-commerce demo website.  
 
-> You can explore all my projects [here](https://github.com/keval-design).
+**Highlights:**  
+- Designed detailed **test scenarios & test cases** for core modules (Login, Signup, Search, Add to Cart, Checkout).  
+- Executed **functional, regression, and smoke testing**.  
+- Automated critical workflows using **Selenium (Java)** and **TestNG**.  
+- Performed **API testing with Postman** and validated responses using assertions.  
+- Prepared **bug reports & test documentation** following industry standards.  
+
+**Tech Stack:** Java, Selenium, TestNG, Postman, GitHub  
+
+---
+
+### 📌 [Henry-sweb Cypress](https://github.com/keval-design/Henry-sweb_Cypress)  
+A **Cypress-based automation project** for web application testing.  
+
+**Highlights:**  
+- Implemented **end-to-end test automation** for login, signup, product search, and cart management.  
+- Used **Mocha & Chai assertions** for validation.  
+- Developed a **Page Object Model (POM)** structure for scalability.  
+- Configured **custom Cypress commands** for reusable actions.  
+- Integrated Cypress with **reporting tools** for better visibility.  
+
+**Tech Stack:** Cypress, JavaScript, Mocha, Chai, GitHub  
+
+---
+
+> You can explore all my projects [here](https://github.com/keval-design).  
 
 ---
 
