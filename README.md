@@ -43,7 +43,6 @@ Here are some of the projects I have worked on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="30" />
 <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/gherkin.svg" height="30" width="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
 </p>
