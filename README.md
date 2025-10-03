@@ -89,7 +89,8 @@ A **Cypress-based automation project** for web application testing.
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="30" width="30" />
   
   <!-- JMeter -->
-  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" height="30" width="30" />
+<img src="https://jmeter.apache.org/images/logo.svg" height="30" width="60" />
+
 </p>
 
 
