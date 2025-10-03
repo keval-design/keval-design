@@ -64,13 +64,34 @@ A **Cypress-based automation project** for web application testing.
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="30" />
-<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" height="30" width="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" />
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" />
+  
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="30" />
+  
+  <!-- Cucumber -->
+  <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" height="30" width="30" />
+  
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
+  
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
+  
+  <!-- Selenium -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="30" width="30" />
+  
+  <!-- Cypress -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" height="30" width="30" />
+  
+  <!-- JMeter -->
+  <img src="https://jmeter.apache.org/images/jmeter.png" height="30" width="30" />
 </p>
+
 
 ---
 
